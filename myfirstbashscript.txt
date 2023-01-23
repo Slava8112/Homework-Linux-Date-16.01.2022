@@ -1,0 +1,6 @@
+#!/bin/bash
+USER=slava
+date
+echo "hello" $USER
+pwd
+echo "Well done Boss"
